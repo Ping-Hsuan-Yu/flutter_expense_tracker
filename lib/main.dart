@@ -33,6 +33,6 @@ void main() {
               fontWeight: FontWeight.bold,
               fontSize: 16,
             ))),
-    home: Expenses(),
+    home: const Expenses(),
   ));
 }
